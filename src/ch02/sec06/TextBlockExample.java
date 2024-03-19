@@ -18,6 +18,15 @@ public class TextBlockExample {
 		
 		System.out.println(str1);
 		System.out.println(str2);
+		
+		System.out.println("================");
+		System.out.println();
+		String str3 = """
+		Hello, Java.
+		Welcome to Java.
+		""";
+		System.out.println(str3);
+
 	}
 
 }
