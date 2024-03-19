@@ -1,4 +1,4 @@
-package ch02.sec01;
+package ch02.sec04;
 
 public class FloatDoubleExample {
 
