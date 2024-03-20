@@ -1,9 +1,7 @@
 package ch04.sec02;
 
 public class IfDiceExample {
-
 	public static void main(String[] args) {
-		
 		int num = (int)(Math.random()*6) + 1; 
 		
 		if(num==1) {
@@ -19,7 +17,7 @@ public class IfDiceExample {
 		} else {
 			System.out.println("6번이 나왔습니다.");
 		}
-		
+
 	}
 
 }
