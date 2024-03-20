@@ -1,9 +1,7 @@
 package ch02.sec09;
 
 public class OperationPromotionExample {
-
 	public static void main(String[] args) {
-
 		byte result1 = 10 + 20; // 컴파일 단계에서 연산
 		System.out.println("result1: " + result1);
 		
@@ -27,7 +25,7 @@ public class OperationPromotionExample {
 		int v8 = 10;
 		int result5 = v8 / v4; // 정수 연산의 결과는 정수
 		System.out.println("result5: " + result5);
-		
+
 	}
 
 }
