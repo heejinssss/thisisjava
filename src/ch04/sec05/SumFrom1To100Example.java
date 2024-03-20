@@ -1,9 +1,7 @@
 package ch04.sec05;
 
 public class SumFrom1To100Example {
-
 	public static void main(String[] args) {
-
 		int sum = 0;
 		
 		int i = 1;
@@ -12,8 +10,8 @@ public class SumFrom1To100Example {
 			sum += 1;
 			i++;
 		}
-		
 		System.out.println("1~" + (i-1) + " 합 : " + sum);
+
 	}
 
 }
