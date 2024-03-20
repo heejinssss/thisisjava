@@ -1,11 +1,9 @@
 package ch04.sec03;
 
 public class SwitchExample {
-
 	public static void main(String[] args) {
-		
 		int num = (int)(Math.random()*6) + 1; 
-		
+
 		switch(num) {
 			case 1:
 				System.out.println("1번이 나왔습니다.");
@@ -26,7 +24,7 @@ public class SwitchExample {
 				System.out.println("6번이 나왔습니다.");
 				break;
 		}
-		
+
 	}
 
 }
