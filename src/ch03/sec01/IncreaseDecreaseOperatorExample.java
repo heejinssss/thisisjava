@@ -32,6 +32,7 @@ public class IncreaseDecreaseOperatorExample {
 		System.out.println("z=" + z); // 23
 		System.out.println("x=" + x); // 14
 		System.out.println("y=" + y); // 10
+
 	}
 
 }
