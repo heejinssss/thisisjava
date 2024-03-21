@@ -24,7 +24,5 @@ public class SwitchExample {
 				System.out.println("6번이 나왔습니다.");
 				break;
 		}
-
 	}
-
 }

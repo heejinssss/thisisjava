@@ -16,7 +16,5 @@ public class SwitchCharExample {
 			default:
 				System.out.println("손님입니다.");
 		}
-
 	}
-
 }

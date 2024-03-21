@@ -21,7 +21,5 @@ public class SwitchExpressionExample {
 			case 'B', 'b' -> System.out.println("우수 회원입니다.");
 			default -> System.out.println("우수 회원입니다.");		
 		}
-
 	}
-
 }
