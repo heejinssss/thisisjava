@@ -11,7 +11,5 @@ public class SumFrom1To100Example {
 			i++;
 		}
 		System.out.println("1~" + (i-1) + " 합 : " + sum);
-
 	}
-
 }
