@@ -6,19 +6,19 @@ public class Car {
 	String model;
 	String color;
 	int maxSpeed;
-	
+
 	// 생성자 1
 	Car(String model) {
 		this(model, "은색", 250);
 		System.out.println("1번 생성자");
 	}
-	
+
 	// 생성자 2
 	Car(String model, String color) {
 		this(model, color, 250);
 		System.out.println("2번 생성자");
 	}
-	
+
 	// 공통 초기화 코드
 	Car(String model, String color, int maxSpeed) {
 		this.model = model;
@@ -26,5 +26,4 @@ public class Car {
 		this.maxSpeed = maxSpeed;
 		System.out.println("공통 생성자");
 	}
-
 }

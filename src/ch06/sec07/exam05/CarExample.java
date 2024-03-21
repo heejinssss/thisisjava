@@ -8,7 +8,7 @@ public class CarExample {
 		System.out.println("car1.color: " + car1.color);
 		System.out.println("car1.maxSpeed: " + car1.maxSpeed);
 		System.out.println();
-		
+
 		Car car2 = new Car("자가용", "보라");
 		System.out.println("car1.company: " + car2.company);
 		System.out.println("car1.model: " + car2.model);
@@ -21,7 +21,5 @@ public class CarExample {
 		System.out.println("carCommon.model: " + carCommon.model);
 		System.out.println("carCommon.color: " + carCommon.color);
 		System.out.println("carCommon.maxSpeed: " + carCommon.maxSpeed);
-
 	}
-
 }
