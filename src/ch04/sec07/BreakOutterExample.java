@@ -10,8 +10,6 @@ public class BreakOutterExample {
 				}
 			}
 		}
-	System.out.println("프로그램 실행 종료");
-
+		System.out.println("프로그램 실행 종료");
 	}
-
 }
