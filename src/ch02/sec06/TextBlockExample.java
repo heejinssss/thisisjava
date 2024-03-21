@@ -25,9 +25,7 @@ public class TextBlockExample {
 		Welcome to Java.
 		""";
 		System.out.println(str3);
-
 	}
-
 }
 
 /*
