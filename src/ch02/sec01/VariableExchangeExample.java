@@ -9,7 +9,5 @@ public class VariableExchangeExample {
 		x = y;
 		y = tmp;
 		System.out.println("x:" + x + ", y:" + y);
-
 	}
-
 }

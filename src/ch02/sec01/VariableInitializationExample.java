@@ -8,7 +8,5 @@ public class VariableInitializationExample {
 		
 //		int value;
 //		int result = value + 10; // 컴파일 에러 발생		
-
 	}
-
 }
