@@ -22,7 +22,5 @@ public class PromotionExample {
 		floatValue = 100.5F;
 		double doubleValue = floatValue;
 		System.out.println("doubleValue: " + doubleValue);
-
 	}
-
 }
