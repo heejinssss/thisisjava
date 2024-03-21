@@ -6,16 +6,15 @@ public class Television {
 	static String model = "LCD";
 	static String info;
 //	static String info = company + model;
-	
+
 	// 정적 블록
 	static {
 		System.out.println("1");
 		info = "정보: " + company;
 		info += "-" + model;
 	}
-	
+
 	static {
 		System.out.println("2");
 	}
-
 }
