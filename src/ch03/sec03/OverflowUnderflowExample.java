@@ -9,13 +9,11 @@ public class OverflowUnderflowExample {
 		}
 
 		System.out.println("==========");
-		
+
 		byte var2 = -125;
 		for(int i=0; i<5; i++); {
 			var2--;
 			System.out.println("var2: " + var2);
 		}
-
 	}
-
 }
