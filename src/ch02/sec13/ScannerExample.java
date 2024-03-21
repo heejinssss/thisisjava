@@ -25,7 +25,5 @@ public class ScannerExample {
 			System.out.println();
 		}
 		System.out.println("종료");
-
 	}
-
 }
