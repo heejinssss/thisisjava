@@ -25,7 +25,5 @@ public class OperationPromotionExample {
 		int v8 = 10;
 		int result5 = v8 / v4; // 정수 연산의 결과는 정수
 		System.out.println("result5: " + result5);
-
 	}
-
 }
