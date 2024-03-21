@@ -8,7 +8,5 @@ public class MultiplicationTableExample {
 				System.out.println(m + " x " + n + " = " + (m*n));
 			}
 		}
-
 	}
-
 }
