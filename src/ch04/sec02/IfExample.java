@@ -12,7 +12,5 @@ public class IfExample {
 		if(score < 90) // 중괄호를 생략하여 버그 발생
 			System.out.println("점수가 90보다 작습니다.");
 			System.out.println("등급은 B입니다."); // if 문과 상관 없는 실행문
-
 	}
-
 }
